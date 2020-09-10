@@ -11,7 +11,6 @@
                 </g-link>
             </div>
             <nav class="nav right">
-                <g-link class="nav__link" to="/journal">Updates</g-link>
                 <g-link class="nav__link" to="/privacy">Privacy Policy</g-link>
             </nav>
         </div>
