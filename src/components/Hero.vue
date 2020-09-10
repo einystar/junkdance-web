@@ -5,7 +5,7 @@
                 src="../../static/junkdance.png"
                 :alt="settings.hero_title"
             />
-            <image
+            <img
                 :src="settings.hero_img"
                 :alt="settings.hero_title"
             />
