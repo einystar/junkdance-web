@@ -3,6 +3,6 @@
   "dark_mode": false,
   "site_name": "Junkdance",
   "site_description": "Creating meaningful experiences.",
-  "hero_title": "<img src=\"/uploads/junkdance.png\">",
+  "hero_title": "![](/uploads/junkdance.png)",
   "hero_subtitle": "Creating meaningful experiences that stay with you fondly."
 }
