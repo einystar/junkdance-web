@@ -5,8 +5,6 @@ author: ''
 excerpt: And then there was something...
 
 ---
-## Hello
-
-**And there was something** but was it fleeting?
+## **And there was something** but was it fleeting?
 
 Welcome, hello.
