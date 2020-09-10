@@ -2,18 +2,7 @@
   <Layout>
     <div class="journal">
       <div class="container journal-container">
-
-        <div class="journal-header">
-          <h1 v-html="$page.post.title" class="journal-title" />
-          <div class="journal-meta">
-            <div class="journal-date">
-              <div v-text="$page.post.date"/>
-            </div>
-          </div>          
-        </div>
-
         <JournalContent :content="$page.post.content" />
-
       </div>
     </div>
   </Layout>
