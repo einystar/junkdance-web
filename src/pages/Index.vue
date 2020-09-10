@@ -20,7 +20,7 @@ query Posts {
       }
     }
   },
-  updates: allUpdatePost (perPage: 4) {
+  journals: allJournalPost (perPage: 4) {
     edges {
       node {
         id
@@ -35,13 +35,13 @@ query Posts {
 <script>
 import Hero from "@/components/Hero"
 import ProjectsGrid from "@/components/ProjectsGrid"
-import LatestUpdates from "@/components/LatestUpdates"
+import LatestJournals from "@/components/LatestJournals"
 
 export default {
   components: {
     Hero,
     ProjectsGrid,
-    LatestUpdates
+    LatestJournals
   }
 }
 </script>
