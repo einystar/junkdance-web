@@ -46,8 +46,8 @@ export default {
   padding: 20vh 0 4rem 0;
 }
 .project-title {
-  font-size: 4rem;
-  margin: 0 0 4rem 0;
+  font-size: 3rem;
+  margin: 0 0 3rem 0;
   padding: 0;
 }
 .project-info {
