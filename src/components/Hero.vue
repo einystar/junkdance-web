@@ -1,6 +1,10 @@
 <template>
     <div class="hero">
         <h1 class="hero-title">
+            <img 
+                src="../../static/junkdance.png"
+                :alt="settings.hero_title"
+            />
             <image
                 :src="settings.hero_img"
                 :alt="settings.hero_title"
