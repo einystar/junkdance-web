@@ -4,8 +4,7 @@ year: 2019
 title: Einstein's Beach
 category: Identity
 thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
-categories:
-- photography
+categories: []
 project_bg_color: ''
 project_fg_color: ''
 
