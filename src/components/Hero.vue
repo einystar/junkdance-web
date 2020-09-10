@@ -5,10 +5,6 @@
                 src="../../static/junkdance.png"
                 :alt="settings.hero_title"
             />
-            <img
-                :src="settings.hero_img"
-                :alt="settings.hero_title"
-            />
         </h1>
         <h2 class="hero-subtitle" v-html="settings.hero_subtitle" />
     </div>
