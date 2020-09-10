@@ -1,6 +1,11 @@
 <template>
     <div class="hero">
-        <h1 class="hero-title" v-html="settings.hero_title" />
+        <h1 class="hero-title">
+            <image
+                :src="settings.hero_img"
+                :alt="settings.hero_title"
+            />
+        </h1>
         <h2 class="hero-subtitle" v-html="settings.hero_subtitle" />
     </div>
 </template>
