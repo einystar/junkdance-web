@@ -30,7 +30,7 @@ fields:
       type: simple
       section: authors
       file: data/authors/nichlas-w-andersen.json
-    required: true
+    required: false
     options: []
   label: Author
-  default: Nichlas W. Andersen
+  default: ''
