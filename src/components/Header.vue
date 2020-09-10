@@ -6,7 +6,7 @@
                     <img 
                         src="../../static/logo.gif"
                         :alt="settings.site_name" 
-                        class="logo"
+                        class="logo1"
                     />
                 </g-link>
             </div>
