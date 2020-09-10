@@ -49,7 +49,7 @@ export default {
   max-width: 720px;
 }
 .journal-hero {
-  padding: 5rem 0 0;
+  padding: 5rem 0 2rem;
   text-align: center;
   color: var(--color-contrast);
 }
