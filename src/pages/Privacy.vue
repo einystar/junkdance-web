@@ -1,7 +1,6 @@
 <template>
   <Layout>
     <div class="container">
-
       <div class="contact-header">
         <h1 class="contact-title">Privacy Policy</h1>
         <p>Our apps in the Apple App Store do not collect or store any form of private data from the user.  Apple might collect data while using our Apps.  Please refer to Apple's Privacy Policies for more details.</p>
@@ -17,7 +16,7 @@ export default {}
 
 <style scoped>
 .contact-header {
-  padding: 2rem 0 4rem 0;
+  padding: 4rem 0 4rem 0;
 }
 .contact-title {
   font-size: 4rem;
