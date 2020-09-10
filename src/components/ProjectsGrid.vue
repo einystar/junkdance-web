@@ -6,6 +6,7 @@
                 :src="item.node.thumbnail"
                 :alt="item.node.title"
                 class="thumbnail"
+                draggable="false"
             />
             <h3 class="project-title">{{ item.node.title }}</h3>
             </g-link>
