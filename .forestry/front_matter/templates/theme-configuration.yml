@@ -22,6 +22,13 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- type: textarea
+  name: hero_img
+  label: Hero img
+  config:
+    wysiwyg: true
+    schema:
+      format: html
 - name: footer
   label: Footer text
   type: text
