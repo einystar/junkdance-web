@@ -4,6 +4,7 @@
             <img 
                 src="../../static/junkdance.png"
                 :alt="settings.hero_title"
+                draggable="false"
             />
         </h1>
         <h2 class="hero-subtitle" v-html="settings.hero_subtitle" />
