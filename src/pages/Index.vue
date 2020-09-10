@@ -35,13 +35,13 @@ query Posts {
 <script>
 import Hero from "@/components/Hero"
 import ProjectsGrid from "@/components/ProjectsGrid"
-import LatestJournals from "@/components/LatestJournals"
+import LatestUpdates from "@/components/LatestUpdates"
 
 export default {
   components: {
     Hero,
     ProjectsGrid,
-    LatestJournals
+    LatestUpdates
   }
 }
 </script>
