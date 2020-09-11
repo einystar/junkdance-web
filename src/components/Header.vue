@@ -8,7 +8,7 @@
                         :alt="settings.site_name" 
                         class="logo1"
                         draggable="false"
-                        style="height:50%"
+                        style="width:200px"
                     />
                 </g-link>
             </div>
